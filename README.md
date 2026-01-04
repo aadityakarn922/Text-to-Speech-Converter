@@ -14,7 +14,9 @@ CSS3 – Styling and responsive design
 JavaScript – Logic, DOM manipulation, and speech synthesis
 
 Web Speech API – Converts text to speech in the browser
-Features
+
+
+#Features
 
 🎧 Convert any text into speech in real-time.
 
@@ -23,6 +25,7 @@ Features
 📱 Responsive design for desktop & mobile.
 
 ✨ Simple and user-friendly interface.
+
 License
 
 This project is open-source and free to use for learning or personal purposes.
