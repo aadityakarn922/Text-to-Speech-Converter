@@ -5,7 +5,9 @@ Convert text into speech instantly using a web-based Text-to-Speech app built wi
 Text to Speech Converter 🚀🎤
 Description
 
-This is a web-based Text-to-Speech (TTS) application that converts text into speech using the browser's Speech Synthesis API.
+This is a web-based Text-to-Speech (TTS) application that converts text into speech using the browser's Speech Synthesis API.Users can type text, choose a voice, and hear it spoken aloud.
+
+
 Technologies Used
 HTML5 – Structure of the web app
 
